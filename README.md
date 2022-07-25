@@ -1,12 +1,12 @@
 # Workout-App-MERN
 
-This App let the user view the workout list aswell as add new workouts or delete workouts. 
+This app let the user view the workout list as well as add new workouts or delete workouts. 
 
 To start the backend you can run:
-nodemon server.js
+### `nodemon server.js`
 
 To start the frontend you can run:
-npm start
+### `npm start`
 
 Below is a picture of the app.
 
